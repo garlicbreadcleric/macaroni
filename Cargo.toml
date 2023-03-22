@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "macaroni",
+    "macaroni-playground"
+]

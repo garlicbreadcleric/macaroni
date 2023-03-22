@@ -1,0 +1,28 @@
+.parsed-inline-text {
+  position: absolute;
+  border-radius: 0;
+  border-bottom: 2px dotted red;
+  box-sizing: border-box;
+}
+
+.parsed-block-paragraph {
+  position: absolute;
+  background-color: rgba(125, 125, 0, 0.5);
+}
+
+.parsed-block-atxHeading {
+  position: absolute;
+  background-color: rgba(125, 0, 125, 0.5);
+}
+
+.editor_grid {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.editor_grid__col {
+  margin: 0;
+  padding: 0;
+}
